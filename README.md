@@ -14,7 +14,9 @@ Briefly describe your project here. This project is a simple HTML, CSS, and JS a
 
 ## Features
 
-- Light and Dark mode switching
+- Light and Dark mode switching by clicking
+- Light and Dark mode switching by hovering over respective divs
+- returns the same value in the browser console
 - User-friendly interface
 - Customizable styles
 
