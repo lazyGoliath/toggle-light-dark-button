@@ -26,11 +26,13 @@ Briefly describe your project here. This project is a simple HTML, CSS, and JS a
 
 ```bash
 git clone https://github.com/your-username/your-project.git
+```
 
 2. Open the project folder:
 
 ```bash
 cd your-project
+```
 
 3. Open index.html in your preferred web browser.
 
@@ -49,16 +51,19 @@ If you would like to contribute to the project, please follow these steps:
 
 ```bash
 git checkout -b feature/your-feature-name
+```
 
 3. Commit your changes:
 
 ```bash
 git commit -m 'Add some feature'
+```
 
 4. Push to the branch:
 
 ```bash
 git push origin feature/your-feature-name
+```
 
 5. Open a pull request.
 
