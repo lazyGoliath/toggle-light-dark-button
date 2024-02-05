@@ -25,13 +25,15 @@ Briefly describe your project here. This project is a simple HTML, CSS, and JS a
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/your-username/toggle-light-dark-button
+.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd your-project
+cd toggle-light-dark-button
+
 ```
 
 3. Open index.html in your preferred web browser.
@@ -50,7 +52,7 @@ If you would like to contribute to the project, please follow these steps:
 2. Create your feature branch:
 
 ```bash
-git checkout -b feature/your-feature-name
+git checkout -b feature/index.html
 ```
 
 3. Commit your changes:
@@ -62,7 +64,7 @@ git commit -m 'Add some feature'
 4. Push to the branch:
 
 ```bash
-git push origin feature/your-feature-name
+git push origin feature/index.html
 ```
 
 5. Open a pull request.
